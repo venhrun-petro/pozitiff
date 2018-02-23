@@ -292,17 +292,17 @@ i {
 @media screen and (max-width: 479px) {
     .row-left {
         width: 100%;
-        height: 40%;
+        height: 33.3333%;
     }
 
     .row-centr {
         width: 100%;
-        height: 20%;
+        height: 33.3333%;
     }
 
     .row-right {
         width: 100%;
-        height: 40%;
+        height: 33.3333%;
     }
 
     .casa-gray:hover .logo {
