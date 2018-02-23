@@ -316,6 +316,12 @@ i {
         width: 40%;
         height: 40%;
     }
+    .positiff-gray:hover .logo {
+        bottom: 50%;
+        width: 40%;
+        height: 40%;
+    }
+
 
     .metro-gray:hover .logo {
         bottom: 50%;
