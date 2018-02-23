@@ -56,6 +56,7 @@ body {
     cursor: pointer;
 }
 
+
 .positiff-gray:hover {
     background: rgba(86, 76, 94, 0);
 }
@@ -213,6 +214,21 @@ body {
 
 .nton-gray:hover .social {
     visibility: visible;
+}
+.logo-poz{
+    width: 30%!important;
+    position: absolute;
+    bottom: 35%;
+    left: 25%;
+    right: 25%;
+    height: 30%;
+    margin: auto;
+    z-index: 7;
+    opacity: 0.3;
+    transition: opacity 1s;
+}
+.positiff-gray:hover .logo-poz {
+    opacity: 0.8;
 }
 
 .logo {
