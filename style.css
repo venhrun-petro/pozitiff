@@ -216,14 +216,20 @@ body {
     visibility: visible;
 }
 .pozitiff-text{
-    position: relative;
-    bottom: 55%;
+
     margin: auto;
     z-index: 99999999999;
     color: white;
     font-weight: bold;
     line-height: 35px;
     font-style: italic;
+
+
+    position: absolute;
+    bottom: 40%;
+    width: 100%;
+    margin: auto;
+    z-index: 999;
 }
 .pozitiff-min-text{
     font-size: 16px;
@@ -310,11 +316,11 @@ i {
 
 @media screen and (max-width: 479px) {
     .pozitiff-text{
-        bottom: 80%;
+        bottom: 25%;
 
     }
     .positiff-gray:hover .pozitiff-text {
-        bottom: 90%;
+        bottom: 55%;
         font-size: 18px;
         line-height: 20px;
     }
