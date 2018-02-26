@@ -70,13 +70,13 @@
     </div>
     <div class="positiff-gray">
         <div class="pozitiff-image"></div>
-        <img src="images/svg/hostel_logo_out_outline-02.svg" class="logo" alt="Hostel">
+        <h1 class="pozitiff-text" >PozitiFF<br><span class="pozitiff-min-text">INFORMATION TECHNOLOGIES</span></h1>
         <div class="social"><a target="_blank" href="http://pozitiff.site/" class="mybtn">VISIT SITE</a>
             <span>or</span>
             <a target="_blank" href="https://www.facebook.com/pozitiff.cz/" class="mybtn"><i
                         class="fa fa-facebook fa-sm" aria-hidden="true"></i></a>
         </div>
-    </div>
+    </div> м
 
 </div>
 <div class="row-right">
